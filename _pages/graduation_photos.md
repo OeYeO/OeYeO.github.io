@@ -15,7 +15,7 @@ nav: false
     width="4000"
     height="2256"
   >
-  <figcaption>With my undergraduate adviser, <a href="https://faculty.nuist.edu.cn/caojian/zh_CN/index/93693/list/index.htm">Prof. Jian Cao</a>.</figcaption>
+  <figcaption>With my undergraduate adviser, <a href="https://www.researchgate.net/profile/Jian-Cao-23">Prof. Jian Cao</a>.</figcaption>
 </figure>
 
 <figure>
