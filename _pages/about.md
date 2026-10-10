@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: PhD student @ Atmospheric and Oceanic Sciences Program at Princeton University
 
 profile:
   align: right
