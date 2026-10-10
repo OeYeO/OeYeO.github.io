@@ -2,7 +2,8 @@
 layout: about
 title: About
 permalink: /
-subtitle: <strong style="font-weight: 700;">PhD Student</strong> @ <a href="https://www.princeton.edu/">Princeton University</a> | <a href="https://aos.princeton.edu/">Atmospheric and Oceanic Sciences Program</a>
+subtitle: >-
+  <strong style="font-weight: 700;">PhD Student</strong> @ <a href="https://www.princeton.edu/">Princeton University</a> | <a href="https://aos.princeton.edu/">Atmospheric and Oceanic Sciences Program</a>
 
 profile:
   align: right
