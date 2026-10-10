@@ -41,6 +41,14 @@ Outside of research, I enjoy playing table tennis, tennis, and [chess](https://w
 
 {% include news.liquid limit=true %}
 
+<style>
+  .publications .author em {
+    color: var(--global-theme-color, #b509ac);
+    font-style: normal;
+    font-weight: 700;
+  }
+</style>
+
 <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;"><strong>Selected Publications</strong></a></h2>
 
 {% include selected_papers.liquid %}
