@@ -12,13 +12,13 @@ nav_order: 6
   <strong style="color: inherit; font-weight: 700;">MT1SES: Skills for Environmental Science</strong>
 </a>
 
-For [Prof. Jing Yang](https://scholar.google.com/citations?user=X1g-xFQAAAAJ&hl=en) · 2023 Spring
+For [Prof. Jing Yang](https://scholar.google.com/citations?user=X1g-xFQAAAAJ&hl=en) · Mar. 2023 – Aug. 2023
 
 <a href="https://www.reading.ac.uk/modules/documents?acyear=2025%252f6&modcode=MA1LA&schoolcode=MPS%20CS%7CMPS%20MATHST%7CMPS%20MET">
   <strong style="color: inherit; font-weight: 700;">MA1LA: Linear Algebra</strong>
 </a>
 
-For [Prof. Yanmei Xue](https://faculty.nuist.edu.cn/xueyanmei/zh_CN/more/67441/jsjjgd/index.htm) · 2022 Fall
+For [Prof. Yanmei Xue](https://faculty.nuist.edu.cn/xueyanmei/zh_CN/more/67441/jsjjgd/index.htm) · Sep. 2022 – Mar. 2023
 
 <div aria-hidden="true" style="height: 1.5rem;"></div>
 
