@@ -48,7 +48,10 @@ Outside of research, I enjoy playing table tennis, tennis, and [chess](https://w
     <tbody>
       <tr>
         <th scope="row" style="white-space: nowrap;">Jul&nbsp;2024</th>
-        <td>First Class Honours awarded from the University of Reading</td>
+        <td>
+          <a href="https://studyabroad.reading.ac.uk/incoming/grade-system/">First Class Honours</a> awarded from the
+          <strong style="font-weight: 700;">University of Reading</strong>
+        </td>
       </tr>
       <tr>
         <th scope="row" style="width: 20%; white-space: nowrap;">Jun&nbsp;2024</th>
