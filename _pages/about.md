@@ -16,7 +16,7 @@ profile:
     201 Forrestal Rd.<br>
     Princeton, NJ 08540</p></div>
 
-selected_papers: false # Selected publications are rendered below News with a custom heading
+selected_papers: false
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -41,14 +41,26 @@ Outside of research, I enjoy playing table tennis, tennis, and [chess](https://w
 
 {% include news.liquid limit=true %}
 
-<style>
-  .publications .author em {
-    color: var(--global-theme-color, #b509ac);
-    font-style: normal;
-    font-weight: 700;
-  }
-</style>
+<h2 style="clear: both;"><strong>Awards &amp; Recognition</strong></h2>
 
-<h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;"><strong>Selected Publications</strong></a></h2>
-
-{% include selected_papers.liquid %}
+<div class="table-responsive">
+  <table class="table table-sm table-borderless" aria-label="Awards and recognition">
+    <tbody>
+      <tr>
+        <th scope="row" style="width: 20%; white-space: nowrap;">June&nbsp;2024</th>
+        <td>
+          Outstanding Graduation (only <strong style="font-weight: 700;">5 out of 340</strong> at Academy or
+          <strong style="font-weight: 700;">1 out of 43</strong> at Department)
+        </td>
+      </tr>
+      <tr>
+        <th scope="row" style="white-space: nowrap;">Oct.&nbsp;2021 &amp; Oct.&nbsp;2022 &amp; Oct.&nbsp;2023 &amp; June&nbsp;2024</th>
+        <td>First Class NUIST Scholarship (<strong style="font-weight: 700;">top 5%</strong>)</td>
+      </tr>
+      <tr>
+        <th scope="row" style="white-space: nowrap;">Oct.&nbsp;2021 &amp; Oct.&nbsp;2022 &amp; Oct.&nbsp;2023</th>
+        <td>NUIST Merit Student Honor (<strong style="font-weight: 700;">top 5%</strong>)</td>
+      </tr>
+    </tbody>
+  </table>
+</div>

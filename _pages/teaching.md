@@ -9,16 +9,16 @@ nav_order: 6
 ## Teaching Assistant
 
 <a href="https://www.reading.ac.uk/modules/documents?acyear=2026%252f7&modcode=MT1SES&schoolcode=MPS%7CMPS%20CS%7CMPS%20MATHST%7CMPS%20MET">
-  <strong style="color: inherit; font-weight: 700;">Skills for Environmental Science module</strong>
+  <strong style="color: inherit; font-weight: 700;">MT1SES: Skills for Environmental Science</strong>
 </a>
 
-For Prof. Jing Yang · Mar. 2023 – Aug. 2023
+For [Prof. Jing Yang](https://scholar.google.com/citations?user=X1g-xFQAAAAJ&hl=en) · Mar. 2023 – Aug. 2023
 
 <a href="https://www.reading.ac.uk/modules/documents?acyear=2025%252f6&modcode=MA1LA&schoolcode=MPS%20CS%7CMPS%20MATHST%7CMPS%20MET">
-  <strong style="color: inherit; font-weight: 700;">Linear Algebra module</strong>
+  <strong style="color: inherit; font-weight: 700;">MA1LA: Linear Algebra</strong>
 </a>
 
-For Prof. Yanmei Xue · Sep. 2022 – Mar. 2023
+For [Prof. Yanmei Xue](https://faculty.nuist.edu.cn/xueyanmei/zh_CN/more/67441/jsjjgd/index.htm) · Sep. 2022 – Mar. 2023
 
 <div aria-hidden="true" style="height: 1.5rem;"></div>
 

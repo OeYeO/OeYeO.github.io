@@ -37,10 +37,10 @@
 \titleformat{\section}{\large\bfseries}{}{0pt}{}[\titlerule]
 \titlespacing*{\section}{0pt}{10pt}{5pt}
 
-\newcommand{\datedentry}[2]{%
+\newcommand{\datedentry}[3][0.28]{%
   \noindent
-  \begin{tabularx}{\linewidth}{@{}>{\raggedright\arraybackslash}X >{\raggedleft\arraybackslash}p{0.28\linewidth}@{}}
-    #1 & #2
+  \begin{tabularx}{\linewidth}{@{}>{\raggedright\arraybackslash}X >{\raggedleft\arraybackslash}p{#1\linewidth}@{}}
+    #2 & #3
   \end{tabularx}\par
 }
 \newcommand{\publication}[1]{%
@@ -66,9 +66,8 @@
   \textit{Ph.D., Atmospheric and Oceanic Sciences}
 \end{minipage}}{Sep.~2024 -- Present}
 
-\datedentry{\begin{minipage}[t]{\linewidth}
-  \textbf{University of Reading \&}\\
-  \textbf{Nanjing University of Information Science and Technology}\\
+\datedentry[0.22]{\begin{minipage}[t]{\linewidth}
+  {\fontsize{10.5}{12.5}\selectfont\textbf{\mbox{University of Reading \& Nanjing University of Information Science and Technology}}}\\
   \textit{Dual B.Sc., Atmospheric Sciences} (\textbf{First Class Honours})
 \end{minipage}}{Sep.~2020 -- June~2024}
 
@@ -90,17 +89,32 @@
 
 \newpage
 
-\section*{Conference Abstracts}
+\section*{Talks \& Presentations}
 
-\publication{Lu, G., He, Y., Baldo, C., \textbf{Li, Y.}, Dong, J., Zhang, Q., Chen, L., Chen, H., Chen, G., Li, J., Yang, Y., Zhao, J., Huang, Y., Wang, Z., Fang, L., Zhang, L., \& Ma, P. (2026). Estimating high-resolution top-down nitrogen oxides emissions for improving air quality and public health in China, \textit{EGU General Assembly 2026}, EGU26-1055. \url{https://doi.org/10.5194/egusphere-egu26-1055}}
+\publication{\href{https://ozoneexchange.org/conference-details/program/}{\textcolor{black}{\textbf{Asian and Stratospheric Influences on Springtime Background Ozone Over the Western US During \mbox{1980--2025}}}}\\
+  \href{https://ozoneexchange.org/}{Intermountain West Ozone Exchange} · \href{https://ozoneexchange.org/conference-details/program/}{Session 8} · Colorado, USA · October~27,~2026\\
+  \textbf{Oral Presentation · Speaker · Upcoming}\\
+  Received a \textbf{\$2,200 student grant} from the Colorado Air Quality Enterprise.}
 
-\publication{Marais, E. A., Vohra, K., Kelly, J. M., \textbf{Li, Y.}, \& Lu, G. (2023). The health burden of air pollution in the UK: a modelling study using updated exposure-risk associations. \textit{The Lancet, 402}, S66. \url{https://doi.org/10.1016/S0140-6736(23)02099-8}}
+\publication{\href{https://www.gfdl.noaa.gov/gfdl-princeton-71st-anniversary-symposium/}{\textcolor{black}{\textbf{Asian and Stratospheric Influences on Springtime Background Ozone Over the Western US During \mbox{1980--2025}}}}\\
+  \href{https://www.gfdl.noaa.gov/gfdl-princeton-71st-anniversary-symposium/}{GFDL--Princeton 71st Anniversary Symposium} · Princeton, New Jersey, USA · October~23,~2026\\
+  \textbf{Poster Presentation · Presenter · Upcoming}}
+
+\publication{\href{https://meetingorganizer.copernicus.org/EGU26/EGU26-1055.html}{\textcolor{black}{\textbf{Estimating High-Resolution Top-Down Nitrogen Oxides Emissions for Improving Air Quality and Public Health in China}}}\\
+  \href{https://www.egu26.eu/}{EGU General Assembly 2026} · \href{https://www.egu26.eu/session/56474}{Session AS4.9} · Vienna, Austria · May~5,~2026\\
+  \textbf{Oral Presentation · Co-author}\\
+  Conference abstract: \href{https://doi.org/10.5194/egusphere-egu26-1055}{\textit{EGU26-1055}}.}
+
+\publication{\href{https://doi.org/10.1016/S0140-6736(23)02099-8}{\textcolor{black}{\textbf{The Health Burden of Air Pollution in the UK: A Modelling Study Using Updated Exposure-Risk Associations}}}\\
+  \href{https://ukpublichealthscience.org/?p=463}{UK Public Health Science 2023} · London, UK · November~24,~2023\\
+  \textbf{Poster Presentation · Co-author}\\
+  Conference abstract published in \href{https://doi.org/10.1016/S0140-6736(23)02099-8}{\textit{The Lancet, 402(Suppl. 1), S66}} · \href{https://maraisresearchgroup.co.uk/Presentations/Vohra-TheLancet-2023.pdf}{Poster}.}
 
 \section*{Selected Honours \& Awards}
 
 \datedentry{Outstanding Graduation (only \textbf{5} out of 340 at Academy or \textbf{1} out of 43 at Department)}{June~2024}
-\datedentry{First Class NUIST Scholarship (\textbf{top 5\%})}{Oct.~2021 \& Oct.~2022 \& Oct.~2023 \& June~2024}
-\datedentry{NUIST Merit Student Honor (\textbf{top 5\%})}{Oct.~2021 \& Oct.~2022 \& Oct.~2023}
+\datedentry[0.55]{First Class NUIST Scholarship (\textbf{top 5\%})}{Oct.~2021 \& Oct.~2022 \& Oct.~2023 \& June~2024}
+\datedentry[0.55]{NUIST Merit Student Honor (\textbf{top 5\%})}{Oct.~2021 \& Oct.~2022 \& Oct.~2023}
 \datedentry{Second prize for the 8th Internet+ National College Student Innovation and Entrepreneurship Competition (\textbf{National-level Award})}{June~2023}
 \datedentry{Third prize for National Undergraduate Research Opportunities Programme}{May~2022}
 \datedentry{Second prize for NUIST 16th Mathematical Contest in Modelling}{May~2022}

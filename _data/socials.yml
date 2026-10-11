@@ -1,10 +1,10 @@
 # this file contains the social media links and usernames of the author
 # the socials will be displayed in the order they are defined here
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
-cv_pdf: /cv/ # link to the CV section
 email: yl6577@princeton.edu # your email address
-linkedin_username: yifan-li-539236355 # your LinkedIn profile
-github_username: yifanli24 # your GitHub profile
+cv_pdf: /cv/ # link to the CV section
 scholar_userid: ncSvGVEAAAAJ # your Google Scholar ID
+github_username: yifanli24 # your GitHub profile
+linkedin_username: yifan-li-539236355 # your LinkedIn profile
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
