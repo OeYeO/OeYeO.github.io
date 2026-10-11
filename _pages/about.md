@@ -53,7 +53,7 @@ Outside of research, I enjoy playing table tennis, tennis, and [chess](https://w
       <tr>
         <th scope="row" style="width: 20%; white-space: nowrap;">June&nbsp;2024</th>
         <td style="white-space: nowrap;">
-          Outstanding Graduation (<strong style="font-weight: 700;">5 out of 340</strong> at Academy or
+          Outstanding Graduation (<strong style="font-weight: 700;">5 out of 340</strong> at Academy /
           <strong style="font-weight: 700;">1 out of 43</strong> at Department)
         </td>
       </tr>
