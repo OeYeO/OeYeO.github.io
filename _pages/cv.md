@@ -1,12 +1,21 @@
 ---
-layout: cv
+layout: page
 permalink: /cv/
 title: CV
 nav: true
 nav_order: 5
-cv_pdf: /assets/pdf/example_pdf.pdf # you can also use external links here
-cv_format: rendercv # options: rendercv, jsonresume
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
-toc:
-  sidebar: left
+cv_pdf: /assets/pdf/yifan-li-cv.pdf
 ---
+
+<p>
+  <a href="{{ '/assets/pdf/yifan-li-cv.pdf' | relative_url }}" class="btn btn-sm z-depth-0" download>Download CV (PDF)</a>
+  <a href="{{ '/assets/tex/yifan-li-cv.tex' | relative_url }}" class="btn btn-sm z-depth-0" download>LaTeX Source</a>
+</p>
+
+<iframe
+  src="{{ '/assets/pdf/yifan-li-cv.pdf' | relative_url }}"
+  title="Yifan Li's Curriculum Vitae"
+  style="width: 100%; height: 85vh; min-height: 600px; border: 0;"
+  loading="lazy"
+>
+</iframe>
