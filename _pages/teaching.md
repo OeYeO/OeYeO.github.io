@@ -24,13 +24,13 @@ For [Prof. Yanmei Xue](https://faculty.nuist.edu.cn/xueyanmei/zh_CN/more/67441/j
 
 ## Student Service
 
-<strong style="font-weight: 700;">Class Liaison</strong>
+<a href="https://mp.weixin.qq.com/s/obf6gDEYK-1H8tNYYLlKGg"><strong style="color: inherit; font-weight: 700;">Alumni Liaison</strong></a>
 
-For Undergraduates, Class of 2028 at NUIST/UoR · Jun. 2024 – Now
+For Undergraduates, Class of 2024 at NUIST/UoR · Jun. 2024 – Now
 
 <strong style="font-weight: 700;">Assistant Counsellor</strong>
 
-For Undergraduates, Class of 2029 at NUIST/UoR · Sep. 2021 – Nov. 2021
+For Undergraduates, Class of 2025 at NUIST/UoR · Sep. 2021 – Nov. 2021
 
 <div aria-hidden="true" style="height: 1.5rem;"></div>
 
