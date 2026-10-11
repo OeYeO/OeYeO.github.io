@@ -18,7 +18,7 @@ nav_order: 2
 </style>
 
 <p style="padding: 0.75rem 1rem; border-left: 3px solid var(--global-theme-color, #b509ac); background-color: rgba(181, 9, 172, 0.08); border-radius: 0.25rem;">
-  I have <strong style="color: var(--global-theme-color, #b509ac); font-weight: 700;">three additional papers in progress</strong>. You can learn more about them on the <a href="{{ '/projects/' | relative_url }}">Projects</a> page.
+  I have <strong style="color: var(--global-theme-color, #b509ac); font-weight: 700;">three additional first-author papers in progress</strong>. You can learn more about them on the <a href="{{ '/projects/' | relative_url }}">Projects</a> page.
 </p>
 
 <!-- Bibsearch Feature -->
