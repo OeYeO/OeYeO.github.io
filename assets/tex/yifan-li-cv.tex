@@ -1,0 +1,117 @@
+% Yifan Li — Curriculum Vitae
+% Converted from "CV - Yifan Li.docx".
+% Compile with: tectonic yifan-li-cv.tex
+% Standard LaTeX installations can also use: latexmk -pdf yifan-li-cv.tex
+\documentclass[11pt,a4paper]{article}
+
+\usepackage[T1]{fontenc}
+\usepackage{newtxtext}
+\usepackage[margin=0.7in,headheight=14pt,headsep=14pt]{geometry}
+\usepackage{array}
+\usepackage{tabularx}
+\usepackage{titlesec}
+\usepackage{fancyhdr}
+\usepackage{lastpage}
+\usepackage{xcolor}
+\usepackage{microtype}
+\usepackage{needspace}
+\usepackage[
+  colorlinks=true,
+  urlcolor={blue!55!black},
+  linkcolor=black,
+  pdfauthor={Yifan Li},
+  pdftitle={Yifan Li — Curriculum Vitae},
+  pdfsubject={Academic curriculum vitae}
+]{hyperref}
+\urlstyle{same}
+
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{4pt}
+\setlength{\emergencystretch}{2em}
+\raggedbottom
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[R]{\small Yifan Li -- Curriculum Vitae, Page \thepage\ of \pageref*{LastPage}}
+\renewcommand{\headrulewidth}{0pt}
+\titleformat{\section}{\large\bfseries}{}{0pt}{}[\titlerule]
+\titlespacing*{\section}{0pt}{10pt}{5pt}
+
+\newcommand{\datedentry}[2]{%
+  \noindent
+  \begin{tabularx}{\linewidth}{@{}>{\raggedright\arraybackslash}X >{\raggedleft\arraybackslash}p{0.28\linewidth}@{}}
+    #1 & #2
+  \end{tabularx}\par
+}
+\newcommand{\publication}[1]{%
+  \Needspace{4\baselineskip}
+  \par\noindent #1\par
+}
+\newcommand{\researchsummary}[1]{%
+  {\itshape #1\par}\vspace{4pt}
+}
+
+\begin{document}
+
+\begin{center}
+  {\LARGE\bfseries Yifan Li}\\[4pt]
+  Atmospheric and Oceanic Sciences Program, Princeton University, US\\[2pt]
+  Email: \href{mailto:yl6577@princeton.edu}{yl6577@princeton.edu}
+\end{center}
+
+\section*{Education}
+
+\datedentry{\textbf{Princeton University}\\
+  \textit{Ph.D., Atmospheric and Oceanic Sciences}}{Sep.~2024 -- Present}
+
+\datedentry{\textbf{University of Reading \&}\\
+  \textbf{Nanjing University of Information Science and Technology}\\
+  \textit{Dual B.Sc., Atmospheric Sciences} (\textbf{First Class Honours})}{Sep.~2020 -- June~2024}
+
+\section*{Publications}
+
+\publication{\textbf{Li, Y.}, \& Cao, J. (2026). Diagnosing the increase in East Asian summer monsoon precipitation under a low-emissions scenario from an energy perspective (\textit{Manuscript in Preparation}).}
+
+\researchsummary{Using multiple climate model simulations together with moisture budget and moist static energy budget analyses, we diagnose the increase in East Asian summer precipitation under the SSP1-2.6 scenario relative to other scenarios. Our results suggest that reduced anthropogenic aerosols over East Asia increase surface solar radiation and evaporation, thereby enhancing convective activity and large-scale upward moisture transport, intensifying the East Asian summer monsoon circulation, and increasing rainfall.}
+
+\publication{\textbf{Li, Y.}, Lin, M., Naik, V., \& Horowitz, L. (2026). Recent tropospheric ozone trends in the northern mid-latitudes: roles of Asian emission reductions and climate variability (\textit{Manuscript in Preparation}).}
+
+\researchsummary{Using high-elevation observations and the GFDL climate model, we show that reductions in Asian emissions are the primary driver of the decreasing free-tropospheric ozone trend over the western US. Stratosphere-troposphere transport (STT) strongly modulates the interannual variability of free-tropospheric ozone over the western US. Climate variability modulates ozone anomalies over the western US by influencing STT through changes in the meandering of the polar jet, rather than the Pacific subtropical jet.}
+
+\publication{\textbf{Li, Y.}, \& Shen, X. (2026). Using causal inference to quantify the roles of tropospheric wave sources and stratospheric preconditioning in sudden stratospheric warmings (\textit{Manuscript in Preparation}).}
+
+\researchsummary{Apply a physically based causal inference framework to quantify the relative roles of tropospheric wave sources and stratospheric preconditioning in influencing the occurrence of sudden stratospheric warmings (SSWs). Our results indicate that both factors play essential roles in the occurrence of SSWs. Approximately one-third of the effect of tropospheric wave sources and one-half of the effect of stratospheric preconditioning on stratospheric polar vortex variability are mediated by stratospheric wave-activity fluxes.}
+
+\publication{Marais, E. A., Kelly, J. M., Vohra, K., \textbf{Li, Y.}, Lu, G., Hina, N., \& Rowe, E. C. (2023). Impact of legislated and best available emission control measures on UK particulate matter pollution, premature mortality, and nitrogen-sensitive habitats. \textit{GeoHealth, 7}(10), e2023GH000910. \url{https://doi.org/10.1029/2023GH000910}}
+
+\newpage
+
+\section*{Conference Abstracts}
+
+\publication{Lu, G., He, Y., Baldo, C., \textbf{Li, Y.}, Dong, J., Zhang, Q., Chen, L., Chen, H., Chen, G., Li, J., Yang, Y., Zhao, J., Huang, Y., Wang, Z., Fang, L., Zhang, L., \& Ma, P. (2026). Estimating high-resolution top-down nitrogen oxides emissions for improving air quality and public health in China, \textit{EGU General Assembly 2026}, EGU26-1055. \url{https://doi.org/10.5194/egusphere-egu26-1055}}
+
+\publication{Marais, E. A., Vohra, K., Kelly, J. M., \textbf{Li, Y.}, \& Lu, G. (2023). The health burden of air pollution in the UK: a modelling study using updated exposure-risk associations. \textit{The Lancet, 402}, S66. \url{https://doi.org/10.1016/S0140-6736(23)02099-8}}
+
+\section*{Selected Honours \& Awards}
+
+\datedentry{Outstanding Graduation (only \textbf{5} out of 340 at Academy or \textbf{1} out of 43 at Department)}{June~2024}
+\datedentry{First Class NUIST Scholarship (\textbf{top 5\%})}{Oct.~2021 \& Oct.~2022 \& Oct.~2023 \& June~2024}
+\datedentry{NUIST Merit Student Honor (\textbf{top 5\%})}{Oct.~2021 \& Oct.~2022 \& Oct.~2023}
+\datedentry{Second prize for the 8th Internet+ National College Student Innovation and Entrepreneurship Competition (\textbf{National-level Award})}{June~2023}
+\datedentry{Third prize for National Undergraduate Research Opportunities Programme}{May~2022}
+\datedentry{Second prize for NUIST 16th Mathematical Contest in Modelling}{May~2022}
+\datedentry{Third prize for China Meteorological Modernization Science and Technology Innovation Competition (\textbf{National-level Award})}{May~2021}
+\datedentry{Third prize for Challenge Cup Academic Science and Technology Competition}{Mar.~2021}
+\datedentry{Third prize for the NUIST 4th Advanced Mathematics Competition}{Mar.~2021}
+
+\section*{Teaching Assistant Experience}
+
+\datedentry{\textbf{Skills for Environmental Science module} for Prof. Jing Yang}{Mar.~2023 -- Aug.~2023}
+\datedentry{\textbf{Linear Algebra module} for Prof. Yanmei Xue}{Sep.~2022 -- Mar.~2023}
+
+\section*{Service}
+
+\datedentry{\textbf{Assistant Counsellor} for Undergraduates, Class of 2029}{Sep.~2021 -- Nov.~2021}
+\datedentry{\textbf{Epidemic Prevention Volunteer}}{Aug.~2021 -- Oct.~2021}
+
+\end{document}
